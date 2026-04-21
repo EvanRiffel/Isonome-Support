@@ -5,7 +5,7 @@ Official support and privacy information for Isonome.
 ## Support & Contact
 If you encounter any bugs, have questions, or have general feedback, please reach out via our support form:
 
-👉 Isonome Support Contact Form(https://forms.gle/YOUR_GOOGLE_FORM_LINK)
+👉 Isonome Support Contact Form: https://forms.gle/PSY2JRbcmZWT79Hq7
 
 *Response time: Typically within 24-48 hours.*
 
