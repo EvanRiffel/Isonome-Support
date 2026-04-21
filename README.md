@@ -26,4 +26,4 @@ Isonome is designed with a "Privacy First" mindset. Your data belongs to you.
 ### 3. Data Deletion
 You can reset your data at any time by clearing the App's storage in your device settings. To remove data from Global Leaderboards, please manage your profile within the Apple Game Center settings.
 
-*Developed by Evan Riffel*
+*Developed by ER Software Systems*
